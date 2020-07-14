@@ -1,0 +1,14 @@
+C:\MYPROJECTS\.NET Core Tut\TutorialNetCore\UploadImage\UploadImage\bin\Debug\netcoreapp2.2\UploadImage.deps.json
+C:\MYPROJECTS\.NET Core Tut\TutorialNetCore\UploadImage\UploadImage\bin\Debug\netcoreapp2.2\UploadImage.runtimeconfig.json
+C:\MYPROJECTS\.NET Core Tut\TutorialNetCore\UploadImage\UploadImage\bin\Debug\netcoreapp2.2\UploadImage.runtimeconfig.dev.json
+C:\MYPROJECTS\.NET Core Tut\TutorialNetCore\UploadImage\UploadImage\bin\Debug\netcoreapp2.2\UploadImage.dll
+C:\MYPROJECTS\.NET Core Tut\TutorialNetCore\UploadImage\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.csprojAssemblyReference.cache
+C:\MYPROJECTS\.NET Core Tut\TutorialNetCore\UploadImage\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.csproj.CoreCompileInputs.cache
+C:\MYPROJECTS\.NET Core Tut\TutorialNetCore\UploadImage\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.RazorAssemblyInfo.cache
+C:\MYPROJECTS\.NET Core Tut\TutorialNetCore\UploadImage\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.RazorAssemblyInfo.cs
+C:\MYPROJECTS\.NET Core Tut\TutorialNetCore\UploadImage\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.AssemblyInfoInputs.cache
+C:\MYPROJECTS\.NET Core Tut\TutorialNetCore\UploadImage\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.AssemblyInfo.cs
+C:\MYPROJECTS\.NET Core Tut\TutorialNetCore\UploadImage\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.RazorTargetAssemblyInfo.cache
+C:\MYPROJECTS\.NET Core Tut\TutorialNetCore\UploadImage\UploadImage\bin\Debug\netcoreapp2.2\UploadImage.pdb
+C:\MYPROJECTS\.NET Core Tut\TutorialNetCore\UploadImage\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.dll
+C:\MYPROJECTS\.NET Core Tut\TutorialNetCore\UploadImage\UploadImage\obj\Debug\netcoreapp2.2\UploadImage.pdb
